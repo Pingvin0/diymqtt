@@ -13,6 +13,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && checkIssets([$_POST["name"]]) && strl
     }
 }
 else {
+    if($_SERVER["REQUEST_METHOD"] == "POST")
     alertMsg("Hiba a csatorna létrehozásakor! A névnek 4 - 19 karakternek kell lennie!");
 }
 
