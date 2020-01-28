@@ -1,7 +1,7 @@
 # DIY mqtt-like PHP service
 Made with PHP 7.2, MySQL(MariaDB) & PHPMyAdmin
 
-#Setup
+# Setup
 Create a database for this and remember the name.
 Import the provided .sql file into that database.
 **If you plan on having this not in the mqtt directory, you must change the prefix in common_funcs.php**
