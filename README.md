@@ -1,5 +1,6 @@
 # DIY mqtt-like PHP service
 Made with PHP 7.2, MySQL(MariaDB) & PHPMyAdmin
+(There are some outdated, and plain stupid things in this.)
 
 # Setup
 Create a database for this and remember the name.
